@@ -7,5 +7,6 @@ public class StarPatterns {
 			}
 			System.out.println(" ");
 		}
+		System.out.println("For Update Check by 2nd Branch");
 	}
 }
